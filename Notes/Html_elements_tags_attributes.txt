@@ -1,0 +1,27 @@
+<H1 title = "Hello">Heading one</H1>
+This whole is an element
+from < to >
+
+but title is an attribute.
+&
+H1 is a tag.
+
+Attributes:
+<a href=""></a>
+here a is an anchor tag and href(hyperlink reference) is attribute.
+
+Anchor tag documentation about its Attributes:
+
+ping -> A space-separated list of URLs. When the link is followed, the browser will send POST requests with the body PING to the URLs. Typically for tracking.
+
+target-> Where to display the linked URL, as the name for a browsing context
+
+
+Paragraphs -> Used to write big paragraphs Suppose 
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, ratione illum! Facilis laboriosam ullam maxime autem enim, commodi laborum aliquam!</p>
+    I have written this but i want to add next line after elit , i can do it by adding br tag which breaks the line.
+
+But when we have a lot of text and we want to add breaks it becomes very difficult for us.
+For this *pre* tag is used it shows the text as it is on the page as we write on the console like if I press enter after elite, it will show me the next line on the page.
+
+
