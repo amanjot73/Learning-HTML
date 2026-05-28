@@ -1,0 +1,33 @@
+Headings:
+    Usually people think that in H1,H2,H3..H6 the main difference is their size, but we know that duo to css properties we can increase the text of H2 bigger than H1.
+    So why to write h1 h2 h6 , simply write para then give them some id and do the size work.
+
+    But the main reason is that H1 ..H6 are you to show the level of importance Like H1 is the most importance thing H2 is less ...Like this.
+
+******************************************
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+Explaination is below:
+
+DOCTYPE html -> Tell browser that document is of html type.
+html lang="en" -> Is for defining the language, used en coz is understood worldwide.
+
+For the head tag only 2 things are visible on webpage i.e Title and Fevicon (small icon near the title)
+
+meta tags -> This is the information we we dont want to show on page but in the backend or server so that any boot will come can see that thing.
+
+
+<meta name="viewport" content="...">
+
+This tag tells the browser how to render a page on a mobile device. Presence of this tag indicates to Google that the page is mobile friendly
+
+
