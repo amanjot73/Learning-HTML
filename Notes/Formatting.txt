@@ -1,0 +1,11 @@
+Previously we use b and i for bold and italic things
+But Now , Strong and em is used for showing that its strongly important and has high emphasise.
+
+Sub tag is for subscript -> means the text will be written in lower side 
+Sup tag is for superscript -> means text is written little upside
+
+del tag is for showing which text deleted
+
+ins tag is for showing which text is inserted
+
+mark is for marking/highlighting the important text
