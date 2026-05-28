@@ -1,0 +1,25 @@
+2 ways for colors :
+rgb-> red blue green (0 to 255 each)
+hsl -> 
+Hue(0,360)
+Saturation(measured in %) shows the intensity of the color
+Light (also in %)
+
+But there is one twist 
+
+there is one more thing i.e 
+rgba  
+hsla
+here a stands for alphachannel ranges from (0 to 1) means opacity
+
+There are 3 ways to write style
+- in separate css file then link it to the html file
+- using style tag in the head tag
+- using style as an attribute (inline styling)
+
+abbr(abrivation) tag -> used for full form type work
+
+Like i have written HTML but when i hover it will show me Full form of HTML
+
+There is one tag which makes the text in different orders like left to right or vice versa 
+i.r Bdo
