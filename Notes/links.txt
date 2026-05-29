@@ -1,0 +1,32 @@
+a is the link tag used to link images or text with a url or any image 
+
+Its attributes:
+href -> for giving the refence
+
+We can also do like make a button when we click it, it will take us to a particular paragraph.
+Below is the code for this
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Link tag</title>
+</head>
+<body>
+    <a href="#section2">Button</a>
+    <p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt quos amet exercitationem numquam voluptas quaerat doloribus veniam illo repellendus consectetur, ex magnam earum dolor nostrum dolorem, obcaecati perspiciatis explicabo beatae unde sed maxime autem officiis. Magni quos reiciendis rerum molestiae, aliquid sint! Quisquam quam iste, eveniet quis excepturi, debitis aperiam nulla reiciendis esse dolorum molestias atque ducimus officia inventore a id, blanditiis sapiente? Distinctio corporis nam doloremque officiis laborum itaque sapiente nihil accusamus voluptatum ex praesentium mollitia a delectus atque explicabo, aspernatur dolor, soluta quaerat totam assumenda nisi illo eius. Voluptatum incidunt neque unde veniam perspiciatis voluptates exercitationem quia reprehenderit magnam facere, aliquam velit. Illo animi doloremque aut ratione quos laborum a voluptas, numquam eaque, deserunt esse! Nemo neque iure voluptas vel fuga quae excepturi a aperiam sunt, perspiciatis beatae laudantium, nostrum at suscipit hic similique ipsa inventore magnam recusandae debitis, adipisci reiciendis quis laboriosam! Minima, ducimus iure laboriosam mollitia odio possimus! Odit pariatur similique, deserunt officia est ratione fuga natus nostrum laboriosam? Officia rerum molestias distinctio reprehenderit necessitatibus nisi minima saepe molestiae vero consectetur, laudantium recusandae ut aut ratione laborum adipisci eum voluptatum rem! Laudantium nisi, fugit ratione eveniet officia enim, provident deleniti error ipsa corporis alias consectetur perferendis!</p>
+        <p id="section2">Lorem ipsum dolor sit amet consectetur, adipisicing elit. In nam unde, facere beatae voluptas, totam eveniet eos ratione magnam, aliquid doloremque quo at accusantium a consequuntur quaerat repellat ducimus. Earum ipsam aspernatur hic ullam dolor, natus ratione alias quibusdam voluptatum ab dolorem culpa fugiat voluptates iste? Blanditiis fuga cumque ratione aliquid dicta. Facilis debitis quibusdam nostrum laudantium, laboriosam vitae reiciendis voluptatem cumque ducimus alias pariatur nisi obcaecati nam aperiam fugit expedita maxime quo consectetur! Vero, voluptates libero. Amet, adipisci hic ut quae dolore suscipit saepe nulla officiis vitae numquam repudiandae perspiciatis, corporis dicta autem debitis sequi nihil. Vero culpa, aut, ad architecto repudiandae eos reprehenderit, ipsa provident consequuntur delectus inventore porro voluptatem ex totam illo iure praesentium veritatis quam iste consectetur voluptate! Cumque beatae architecto autem officiis adipisci, libero vero blanditiis reiciendis tempora atque nobis expedita corrupti! Commodi hic amet ducimus inventore ipsam perspiciatis, consequuntur pariatur sint nisi nihil rem. Exercitationem fugit distinctio nobis asperiores doloribus cum, numquam eos ipsam, saepe sequi corporis culpa velit, beatae voluptatibus totam! Modi, soluta. Nostrum veniam perspiciatis provident nobis. Minus omnis nostrum perspiciatis, natus porro, atque temporibus laudantium delectus quo eligendi id consequuntur neque tenetur, similique illum illo velit molestias consectetur ducimus. Tenetur enim nisi fugit ratione laborum similique esse illum incidunt debitis quas dicta, sit obcaecati? Mollitia laboriosam impedit vitae assumenda totam quis molestiae hic tempore soluta consequatur dolorum est harum voluptas eos commodi nesciunt reiciendis, dolores facilis. Tempore, esse at. Omnis reiciendis atque amet ad debitis asperiores voluptate fugiat eum, molestiae aperiam temporibus laudantium modi, explicabo quisquam adipisci incidunt, alias tenetur molestias maxime et id porro odit dolorem. Eveniet ab fugiat cumque doloribus expedita? Culpa tempora voluptatibus deserunt sed dolorum quibusdam cupiditate veritatis necessitatibus harum nobis. Voluptatum corporis officia animi minima? Perspiciatis placeat recusandae, explicabo dolorum itaque est consequatur ut nemo a.</p>
+    </p>
+    
+</body>
+</html>
+
+
+we have done this m making id of it.
+
+
+Another attribute is target -> it will also point ot some url but it will open that link in another tab not in the current tab.
+
+
