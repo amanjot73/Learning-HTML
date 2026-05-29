@@ -23,3 +23,5 @@ Like i have written HTML but when i hover it will show me Full form of HTML
 
 There is one tag which makes the text in different orders like left to right or vice versa 
 i.r Bdo
+
+Address tag is used to show the address or contact info in the bottom of the page
