@@ -1,0 +1,16 @@
+We can add images using img tag.
+Its attributes:
+src , alt , width , height
+
+But there is one more tag picture tag 
+It is similar to img
+
+
+Thing making it different is writing source tag inside it
+It acts like when my screen widht or height is equal to that value show me this image and if not satisfies any value show the default image (shown by img tag) 
+It behaves like if , else if and else 
+
+
+Image Map Generator:  Basically it maps the things in an image like if i click on something in an image will do some actions.
+
+Already done in the code you can see it in the images.html
