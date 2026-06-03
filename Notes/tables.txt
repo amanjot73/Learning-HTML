@@ -1,0 +1,10 @@
+Here we have learned that how to make the tables in html
+Shortcut : table>tr>th*n which represents i want table with rows having n no. of headings
+         : tr>td*n which represents i want table tr having n no. of table data
+
+Some style properties:
+    bgc; border-collapse = collapse; width
+    Suppose we want to highlight even or odd rows we can do it by 
+    tr:nth_child(even/odd){
+        then it color we want to change
+    }
