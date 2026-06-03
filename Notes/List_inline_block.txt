@@ -1,0 +1,15 @@
+3 Types of Lists discussed:
+
+-> Unordered List -> shortcut ul>li*(n)
+-> Ordered List -> shortcut ol>li*(n) -> automatically assigns numbering so show the order.
+-> Data List / Description List it not very very used.
+
+
+Block vs inline elements
+Block elements are those who occupies whole page or a row
+on the other hand
+inline elements occupy the area in which they are like hello so it will cover hello only
+
+We can check this by inspect mode or highlighting the tags so we can get that easily.
+
+
