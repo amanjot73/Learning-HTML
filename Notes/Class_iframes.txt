@@ -1,0 +1,14 @@
+Classes and Id's are used to target an element in html.
+
+Good practice is having one id and many Classes.
+
+Why id and Classes coz both do the same work?
+Id's are basically made for js for reliability, but developers used them for css selection only.
+
+One more concept iframes 
+These are used to load another web page into our page.
+Generally used for the adding maps or videos.
+But there are some security issues with this
+Suppose some one has google form and hacker come and used iframe and someone filled that form so all the details will be shared with them.
+
+So we use iframe with cautions.
