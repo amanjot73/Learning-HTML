@@ -1,0 +1,6 @@
+Here we learnt about what are forms, how they work
+Discussed about some of its important attributes:
+
+Most confusing are:
+Action -> this is a url processing the form data.
+Target -> The url to show where to navigate after submitting the form.

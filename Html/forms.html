@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: #e18b8b;
+        }
+    </style>
+    <script>
+        function one(){
+            alert("Submitted Successfully")
+        }
+    </script>
+</head>
+<body>
+    <H1 style="color: aliceblue; text-align: center;">Lets talk about Forms</H1>
+    <form action="url" method="get" autocomplete="on">
+        <label for="fname">First Name</label>
+        <input type="text" name="" required id="fname">
+        <br/>
+        <label for="lname">Last Name</label>
+        <input type="text" name="" id="lname">
+        <input type="datetime-local" name="" id="">
+        <br/>   
+        <select name="editors" id="editors">
+            <option value="">VsCode</option>
+            <option value="">IDLE</option>
+        </select>
+        <br/>   
+        <button type="submit" onclick="one()">Apply</button>
+    </form>
+
+
+
+</body>
+</html>
