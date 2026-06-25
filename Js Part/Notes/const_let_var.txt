@@ -1,0 +1,17 @@
+Const means its content cannot be changed
+Let means it can be changed
+var also means it can be changed
+
+Then Why Let and Var?
+
+In early time, there was one problem in js i.e the block scope
+When user uses var in a loop and after the loop if again write that var it changes its value
+
+eg => 
+if(n>a){
+    int k = 19;
+}
+k = 20;
+undating the k....That's the error which was there
+So then the programmers decided not to use <<<<<Var>>>>>
+And only use <<<<Let>>>>
